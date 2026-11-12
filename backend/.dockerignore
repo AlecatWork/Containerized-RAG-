@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+venv
+.venv
+.git
+.env
+chroma_data
+rag_db
+.DS_Store
